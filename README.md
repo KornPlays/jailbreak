@@ -8,8 +8,8 @@ To use the multiplayer feature (cloud icon) of the script, you will need to host
 - Press F1 to server hop
 - Press F2 to rejoin the server
 ## GUI buttons
-- The arrow stands is used for server hopping
+- The arrow is used for server hopping
 - The disk stands for local server hop (solo server hop)
 - The cloud stands for connected to the cloud server (multiplayer server hop)
 - The crossed cloud stands for no connection to the cloud server (solo server hop)
-- The reload stands is used for rejoining the server
+- The reload is used for rejoining the server
